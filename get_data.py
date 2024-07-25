@@ -2,6 +2,7 @@ from sklearn.datasets import make_classification
 from sklearn.model_selection import train_test_split
 import numpy as np
 import os
+import pandas as pd
 
 seed = 42
 # Generate data
